@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get-advice//static/css/main.8e4f854a.css",
+    "main.js": "/get-advice//static/js/main.53423d6a.js",
+    "index.html": "/get-advice//index.html",
+    "main.8e4f854a.css.map": "/get-advice//static/css/main.8e4f854a.css.map",
+    "main.53423d6a.js.map": "/get-advice//static/js/main.53423d6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4f854a.css",
+    "static/js/main.53423d6a.js"
+  ]
+}
