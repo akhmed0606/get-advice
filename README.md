@@ -1,1 +1,1 @@
-*React advice app project fetching API data using axios*
+*React advice app  fetching API data using axios*
