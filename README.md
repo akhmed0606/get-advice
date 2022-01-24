@@ -1,4 +1,4 @@
-*-I used Advice Slip JSON API to build this random advice generator app*
+*I used Advice Slip JSON API to build this random advice generator app. Used axios library to fetch data and added unit testing with Jest*
 
 ## Quick Start
 
