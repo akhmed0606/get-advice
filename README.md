@@ -1,4 +1,4 @@
-*React advice app  fetching API data using axios library*
+*-I used Advice Slip JSON API to build this random advice generator app*
 
 ## Quick Start
 
